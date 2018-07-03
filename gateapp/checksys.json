@@ -1,5 +1,5 @@
 {
-  "maintain": false,
+  "maintain": true,
   "server_alive": true,
   "msg": null,
   "sys_upcoming_event":null,
