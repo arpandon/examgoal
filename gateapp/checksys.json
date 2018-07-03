@@ -1,6 +1,6 @@
 {
-  "maintain": true,
-  "server_alive": true,
+  "maintain": false,
+  "server_alive": false,
   "msg": null,
   "sys_upcoming_event":null,
   "event_example":{
