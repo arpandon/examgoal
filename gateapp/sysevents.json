@@ -3,7 +3,7 @@
     {
      "event_title": "Schedule Maintenance",
      "event_description": "Due to Schedule Maintenance our System will stop working at 12:00 am",
-     "event_date": null
+     "event_date": 1536580800
     }
   ],
   "sample_event":{
