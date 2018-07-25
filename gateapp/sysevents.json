@@ -1,5 +1,11 @@
 {
-  "events": [],
+  "events": [
+    {
+     "event_title": "Schedule Maintenance",
+     "event_description": "Due to Schedule Maintenance our System will stop working at 12:00 am",
+     "event_date": null
+    }
+  ],
   "sample_event":{
      "event_title": null,
      "event_description": null,
