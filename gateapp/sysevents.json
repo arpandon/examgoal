@@ -1,11 +1,5 @@
 {
-  "events": [
-   {
-    "event_title": "",
-    "event_description": "",
-    "event_date": ""
-   }
-  ],
+  "events": [],
   "sample_event":{
      "event_title": null,
      "event_description": null,
