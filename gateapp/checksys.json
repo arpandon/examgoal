@@ -1,11 +1,5 @@
 {
   "maintain": false,
-  "server_alive": true,
+  "server_alive": false,
   "msg": null,
-  "sys_upcoming_event":null,
-  "event_example":{
-      "event_title": "",
-      "event_msg":"",
-      "event_date": 1
-  }
 }
